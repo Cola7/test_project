@@ -6,4 +6,6 @@ public class User {
 
     private String woshimaster;
 
+    private String woshidev;
+
 }
